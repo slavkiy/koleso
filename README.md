@@ -1,2 +1,3 @@
 # koleso
-2d physics engine
+
+Репозиторий решения задач на python по химии или физики
